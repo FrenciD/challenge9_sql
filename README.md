@@ -5,6 +5,7 @@ specified data types, primary keys, foreign keys, and other constraints.
 
 # Part 2
 # Data Modeling
+CSV files were inspected, and then sketched an Entity Relationship Diagram of the CSV into tables.
 Imported each CSV file into its corresponding SQL table.
 
 # Part 3 
